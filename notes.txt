@@ -1,0 +1,41 @@
+
+###for "bubble_plot_age_recruiter_type.png":
+I think you should draw attention to how the youngest talent is increasingly coming from outhouse recruitment, where recruiters have experience in multiple indsutries and clients which supports the idea that recruiters should be agile and widely knowledgable if they want to recruit the freshest talent in a time when all industries are moving faster
+####
+for "bubble_plot_specialisation_recruiter_type.png"
+I think this plot shows that mixed recruitment or pure inhouse dominate industry, u will understand better than me how this relates to ur hypotheses. Perhaps, because u use inhouse so much u need insider knowledge? but mixed also implies that inter-company mobility is important also.
+###
+for "bubble_plot_specialisation_understood_skills.png"
+I think this plot shows that some industries are missing recruiters who understand how to market the candidate like IT, Product and UX and so to succeed in these industries we want good convincing skills
+###
+for "bubble_plot_specialisation_sufficient_knowledge.png"
+Plot clearly shows lack of knowledge is lowering candidate satisfaction, as predicted by point #1
+###
+for "bubble_plot_specialisation_transparency.png"
+shows that transparency isnt a major issue
+###
+for "bubble_plot_specialisation_quick.png"
+shows that quickness (agility) is important to many candidagtes
+agrees with what u said
+### 
+for "barchart_specialisation_n_offers.png"
+shows that some industries like data analytics are very competitve , because these are expected to grow its important that recruiters equiop themselves with as many skills to succeed in a highly compettive industry
+###
+for "boxplot_specialisation_satisfaction.png"
+shows that recruitment experience is similar across different industries implying that issues are general and wide impact
+this is statistically shown by a non parametric Kruskal-Wallis test which is robust to non normally distributed data.
+It tests the hypothesis that mean satisfaction is same across all these industries, we fail to reject this hypothesis because of the insignificant p-value
+###
+for 'boxplot_recruiter_type_satisfaction.png'
+shows that recruitment experience changes satisfaction significantly favouring inhouse experience (means for some reason in house experience is valuable- could be interpereted as needing highly specific company knowledge or personal relationships with people in the company?)
+###
+for 'piecharts_platforms.png'
+shows that variety of tech are used and different tech is appropriate for different stages
+supporting the idea that recruiters need to be agile
+###
+for 'word_cloud.png'
+shows the keywords respondents emphasised in the q:
+"From your previous experiences when working with a recruiter in IT, is there anything you would like them to do differently when approaching candidates for jobs?"
+more frequently appearing words are coloured darker red and bigger in the center
+i processed this to remove redundant words like company and companies and process and processing etc. I also removed uninformative words like candidates","candidate","recruiters",'companys'
+shows many examples of words that agree with our three points incl 'technical', provide' 'potential','clear' etc
